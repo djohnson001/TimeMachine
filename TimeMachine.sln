@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeMachine", "TimeMachine\TimeMachine.csproj", "{0B977737-AC43-48D8-BE21-14DECF831835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeMachineTests", "TimeMachineTests\TimeMachineTests.csproj", "{68E55069-F99E-4164-AB6B-BBBE60523C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B977737-AC43-48D8-BE21-14DECF831835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B977737-AC43-48D8-BE21-14DECF831835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B977737-AC43-48D8-BE21-14DECF831835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B977737-AC43-48D8-BE21-14DECF831835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E55069-F99E-4164-AB6B-BBBE60523C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E55069-F99E-4164-AB6B-BBBE60523C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E55069-F99E-4164-AB6B-BBBE60523C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E55069-F99E-4164-AB6B-BBBE60523C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
